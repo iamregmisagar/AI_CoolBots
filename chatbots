@@ -1,0 +1,11 @@
+<!-- Book -->
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/ecfb6c85-2994-4b06-9da3-6a19036cbe80/webchat/config.js" defer></script>
+
+<!-- Career Guide-->
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/ba249676-bff3-4ccf-b733-b7a187c58c0f/webchat/config.js" defer></script>
+
+<!-- Personal Trainer-->
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/ca6000bc-bae3-44ae-933b-33c673b47eb8/webchat/config.js" defer></script>
